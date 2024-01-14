@@ -4,8 +4,8 @@ Hi. I'm Cyrus Baruc. It was June 2012, two months after graduating from college 
 Motivated by this newfound passion, I embarked on a journey of self-education in Excel, spearheading process improvement initiatives and crafting dashboards enriched with macros, advanced Excel formulas, and data visualization techniques. Concurrently, I pursued online courses in Python and Data Analytics, while also undertaking freelance projects as a Python developer.
 
 Embracing this pivot towards the data realm, I became a Finance Business Analyst at Lexmark Research and Development Corporation and am now fully immersed in the field of Data Analytics, equipped with a robust skill set and an unwavering commitment to continuous learning and development. Here I stand today, ready to contribute and grow in this dynamic and ever-evolving industry.
-
-https://clipchamp.com/watch/Gb19Vz4UwD5
+## Video Introduction
+- **https://clipchamp.com/watch/Gb19Vz4UwD5**
 <!-- a normal html comment 
 ## Trainings & Certifications
 ### Google Data Analytics Professional Certificate - https://www.credly.com/earner/earned/badge/cf025b53-5775-4123-8da3-77bb869c4ace
