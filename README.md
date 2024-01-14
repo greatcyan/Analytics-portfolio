@@ -29,7 +29,18 @@ The Excel dashboard was developed and designed as part of my Data Associate Trai
 
 ![image](https://github.com/greatcyan/myportfolio/assets/95137493/64032f6a-d4d7-4175-b357-f226023fb74b)
 
-#### Cebu Province - Provincial Dashboard
+#### Marketing Dashboard
+The marketing dashboard is a powerful analytical tool designed to provide a comprehensive view of the organization's marketing performance. It centralizes key performance indicators (KPIs) and revenue trends, offering dynamic commentaries and actionable insights. 
+
+## Purpose
+
+The primary purpose of this dashboard is to:
+- **Track and Visualize KPIs**: Monitor crucial metrics such as customer acquisition cost, conversion rates, and return on investment (ROI) in real-time.
+- **Analyze Revenue Trends**: Understand how different revenue streams are performing over time and identify patterns that can inform future strategies.
+- **Correlate Marketing Efforts with Financial Outcomes**: Examine the direct impact of promotional activities on net revenue, enabling data-driven decisions to optimize marketing spend.
+- **Inform Strategic Decisions**: Utilize the insights gained from the dashboard to make informed decisions about where to allocate resources for maximum impact.
+
+By highlighting the interdependencies between marketing expenditures and revenue generation, the dashboard underscores the necessity of strategic investment in marketing to drive growth. It serves as a decision-making compass, guiding marketers and executives towards more profitable and efficient marketing strategies.
 
 ![image](https://github.com/greatcyan/myportfolio/assets/95137493/41c906a5-50e2-4496-b29e-35e1c6a51443)
 
