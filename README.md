@@ -1,12 +1,12 @@
 ## About Me
-It was June 2012, two months after graduating from college where I began my career in the tech industry as a Board Repair Specialist at Teradyne Philippines, where I honed my skills for three years before transitioning to Linksphere Technologies, continuing in the same capacity. Throughout these two tenures, I refined my abilities in troubleshooting, problem-solving, and data analysis. My exposure to diagnosing boards using automated test equipment, coupled with analyzing test logs to identify failures, sparked my interest in Data Analytics.
+Hi. I'm Cyrus Baruc. It was June 2012, two months after graduating from college where I began my career in the tech industry as a Board Repair Specialist at Teradyne Philippines, where I honed my skills for three years before transitioning to Linksphere Technologies, continuing in the same capacity. Throughout these two tenures, I refined my abilities in troubleshooting, problem-solving, and data analysis. My exposure to diagnosing boards using automated test equipment, coupled with analyzing test logs to identify failures, sparked my interest in Data Analytics.
 
 Motivated by this newfound passion, I embarked on a journey of self-education in Excel, spearheading process improvement initiatives and crafting dashboards enriched with macros, advanced Excel formulas, and data visualization techniques. Concurrently, I pursued online courses in Python and Data Analytics, while also undertaking freelance projects as a Python developer.
 
 Embracing this pivot towards the data realm, I became a Finance Business Analyst at Lexmark Research and Development Corporation and am now fully immersed in the field of Data Analytics, equipped with a robust skill set and an unwavering commitment to continuous learning and development. Here I stand today, ready to contribute and grow in this dynamic and ever-evolving industry.
 
 https://clipchamp.com/watch/Gb19Vz4UwD5
-
+<!-- a normal html comment 
 ## Trainings & Certifications
 ### Google Data Analytics Professional Certificate - https://www.credly.com/earner/earned/badge/cf025b53-5775-4123-8da3-77bb869c4ace
 <img src="https://github.com/greatcyan/myportfolio/assets/95137493/eec8223b-e811-408f-9af1-bd6d93962c9e" alt="image" width="600"/>
@@ -22,7 +22,7 @@ https://clipchamp.com/watch/Gb19Vz4UwD5
 
 ### Computing Microspecialization Pathway - https://sparta.dap.edu.ph/
 <img src="https://github.com/greatcyan/myportfolio/assets/95137493/0caa0af7-d98d-4fa3-92a0-643356bfe6b9" alt="image" width="600"/>
-
+-->
 ## Portfolio
 ### Cebu Province - Provincial Dashboard
 The Excel dashboard was developed and designed as part of my Data Associate Training requirements. It highlights the interplay among unique tourist attractions, population size, infrastructure, talent output, and the business climate. Primarily, it serves to aid the Local Government Units of Cebu Province in comparing data across cities and municipalities for planning and development. Additionally, the dashboard can also serve as a high-level guide for tourists and businessmen looking to invest in Cebu.
