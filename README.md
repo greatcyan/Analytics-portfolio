@@ -7,32 +7,32 @@ Embracing this pivot towards the data realm, I became a Finance Business Analyst
 
 https://clipchamp.com/watch/Gb19Vz4UwD5
 
-### Trainings & Certifications
-##### Google Data Analytics Professional Certificate - https://www.credly.com/earner/earned/badge/cf025b53-5775-4123-8da3-77bb869c4ace
+# Trainings & Certifications
+## Google Data Analytics Professional Certificate - https://www.credly.com/earner/earned/badge/cf025b53-5775-4123-8da3-77bb869c4ace
 <img src="https://github.com/greatcyan/myportfolio/assets/95137493/eec8223b-e811-408f-9af1-bd6d93962c9e" alt="image" width="600"/>
 
-#### Data Associate Pathway - https://sparta.dap.edu.ph/
+## Data Associate Pathway - https://sparta.dap.edu.ph/
 <img src="https://github.com/greatcyan/myportfolio/assets/95137493/e409bf0e-8460-4d95-a754-007957692c37" alt="image" width="600"/>
 
-#### Data Visualization Microspecialization Pathway - https://sparta.dap.edu.ph/
+## Data Visualization Microspecialization Pathway - https://sparta.dap.edu.ph/
 <img src="https://github.com/greatcyan/myportfolio/assets/95137493/d038069e-a86e-49bd-afd7-76a4d795d5f5" alt="image" width="600"/>
 
-#### Data Governance Microspecialization Pathway - https://sparta.dap.edu.ph/
+## Data Governance Microspecialization Pathway - https://sparta.dap.edu.ph/
 <img src="https://github.com/greatcyan/myportfolio/assets/95137493/473af76a-be8d-4430-904e-722c5e4ead1a" alt="image" width="600"/>
 
-#### Computing Microspecialization Pathway - https://sparta.dap.edu.ph/
+## Computing Microspecialization Pathway - https://sparta.dap.edu.ph/
 <img src="https://github.com/greatcyan/myportfolio/assets/95137493/0caa0af7-d98d-4fa3-92a0-643356bfe6b9" alt="image" width="600"/>
 
 # Portfolio
-#### Cebu Province - Provincial Dashboard
+## Cebu Province - Provincial Dashboard
 The Excel dashboard was developed and designed as part of my Data Associate Training requirements. It highlights the interplay among unique tourist attractions, population size, infrastructure, talent output, and the business climate. Primarily, it serves to aid the Local Government Units of Cebu Province in comparing data across cities and municipalities for planning and development. Additionally, the dashboard can also serve as a high-level guide for tourists and businessmen looking to invest in Cebu.
 
 ![image](https://github.com/greatcyan/myportfolio/assets/95137493/64032f6a-d4d7-4175-b357-f226023fb74b)
 
-#### Marketing Dashboard
+## Marketing Dashboard
 The marketing dashboard is a powerful analytical tool designed to provide a comprehensive view of the organization's marketing performance. It centralizes key performance indicators (KPIs) and revenue trends, offering dynamic commentaries and actionable insights. 
 
-## Purpose
+### Purpose
 
 The primary purpose of this dashboard is to:
 - **Track and Visualize KPIs**: Monitor crucial metrics such as customer acquisition cost, conversion rates, and return on investment (ROI) in real-time.
