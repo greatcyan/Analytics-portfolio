@@ -7,9 +7,12 @@ Embracing this pivot towards the data realm, I became a Finance Business Analyst
 
 ### Trainings & Certifications
 ##### Google Data Analytics Professional Certificate - https://www.credly.com/badges/cf025b53-5775-4123-8da3-77bb869c4ace/linked_in_profile
-![image](https://github.com/greatcyan/myportfolio/assets/95137493/eec8223b-e811-408f-9af1-bd6d93962c9e)
+<img src="https://github.com/greatcyan/myportfolio/assets/95137493/eec8223b-e811-408f-9af1-bd6d93962c9e" alt="image" width="600"/>
 
 #### Data Associate Pathway - https://sparta.dap.edu.ph/
+<img src="https://github.com/greatcyan/myportfolio/assets/95137493/e409bf0e-8460-4d95-a754-007957692c37" alt="image" width="600"/>
+
+
 ![image](https://github.com/greatcyan/myportfolio/assets/95137493/e409bf0e-8460-4d95-a754-007957692c37)
 
 #### Data Governance Microspecialization - https://sparta.dap.edu.ph/
