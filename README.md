@@ -12,9 +12,10 @@ Embracing this pivot towards the data realm, I became a Finance Business Analyst
 #### Data Associate Pathway - https://sparta.dap.edu.ph/
 <img src="https://github.com/greatcyan/myportfolio/assets/95137493/e409bf0e-8460-4d95-a754-007957692c37" alt="image" width="600"/>
 
+#### Data Visualization Microspecialization Pathway - https://sparta.dap.edu.ph/
+<img src="https://github.com/greatcyan/myportfolio/assets/95137493/d038069e-a86e-49bd-afd7-76a4d795d5f5" alt="image" width="600"/>
 
-![image](https://github.com/greatcyan/myportfolio/assets/95137493/e409bf0e-8460-4d95-a754-007957692c37)
+#### Data Governance Microspecialization Pathway - https://sparta.dap.edu.ph/
+<img src="https://github.com/greatcyan/myportfolio/assets/95137493/473af76a-be8d-4430-904e-722c5e4ead1a" alt="image" width="600"/>
 
-#### Data Governance Microspecialization - https://sparta.dap.edu.ph/
-![image](https://github.com/greatcyan/myportfolio/assets/95137493/473af76a-be8d-4430-904e-722c5e4ead1a)
 
