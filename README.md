@@ -5,7 +5,7 @@ Motivated by this newfound passion, I embarked on a journey of self-education in
 
 Embracing this pivot towards the data realm, I became a Finance Business Analyst at Lexmark Research and Development Corporation and am now fully immersed in the field of Data Analytics, equipped with a robust skill set and an unwavering commitment to continuous learning and development. Here I stand today, ready to contribute and grow in this dynamic and ever-evolving industry.
 ## Video Introduction
-- **https://clipchamp.com/watch/Gb19Vz4UwD5**
+https://clipchamp.com/watch/Gb19Vz4UwD5
 
 ## Trainings & Certifications
 ### Google Data Analytics Professional Certificate - https://www.credly.com/earner/earned/badge/cf025b53-5775-4123-8da3-77bb869c4ace
