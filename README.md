@@ -52,6 +52,11 @@ By highlighting the interdependencies between marketing expenditures and revenue
 
 ![Development Cost Centers Spend Analytics](https://github.com/greatcyan/myportfolio/assets/95137493/b247e911-fe23-48e0-9343-b834369a8b54)
 
+![Extended Warranty Amortization Report](https://github.com/greatcyan/myportfolio/assets/95137493/d427b44b-ed07-4223-a420-bacc12566824)
+
+## END
+
+
 
 
 
