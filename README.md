@@ -25,7 +25,12 @@ https://clipchamp.com/watch/Gb19Vz4UwD5
 
 # Portfolio
 #### Cebu Province - Provincial Dashboard
-This Excel dashboard was developed and designed as a requirement during my Data Associate Training. The goal of this dashboard is to assist the Filipinos and Local Government Units of Cebu Province in visualizing and comparing data across cities and municipalities. It focuses on the interplay between unique tourist attractions, population size, infrastructure, talent output, and the business climate. 
+The Excel dashboard was developed and designed as part of my Data Associate Training requirements. It highlights the interplay among unique tourist attractions, population size, infrastructure, talent output, and the business climate. Primarily, it serves to aid the Local Government Units of Cebu Province in comparing data across cities and municipalities for planning and development. Additionally, the dashboard can also serve as a high-level guide for tourists and businessmen looking to invest in Cebu.
 
 ![image](https://github.com/greatcyan/myportfolio/assets/95137493/64032f6a-d4d7-4175-b357-f226023fb74b)
+
+#### Cebu Province - Provincial Dashboard
+
+![image](https://github.com/greatcyan/myportfolio/assets/95137493/41c906a5-50e2-4496-b29e-35e1c6a51443)
+
 
