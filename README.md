@@ -1,6 +1,3 @@
-# CYRUS BARUC - PORTFOLIO
-Last updated 1/14/2024
-
 ## About Me
 It was June 2012, two months after graduating from college where I began my career in the tech industry as a Board Repair Specialist at Teradyne Philippines, where I honed my skills for three years before transitioning to Linksphere Technologies, continuing in the same capacity. Throughout these two tenures, I refined my abilities in troubleshooting, problem-solving, and data analysis. My exposure to diagnosing boards using automated test equipment, coupled with analyzing test logs to identify failures, sparked my interest in Data Analytics.
 
