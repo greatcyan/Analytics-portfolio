@@ -8,7 +8,7 @@ Embracing this pivot towards the data realm, I became a Finance Business Analyst
 https://clipchamp.com/watch/Gb19Vz4UwD5
 
 ### Trainings & Certifications
-##### Google Data Analytics Professional Certificate - https://www.credly.com/badges/cf025b53-5775-4123-8da3-77bb869c4ace/linked_in_profile
+##### Google Data Analytics Professional Certificate - https://www.credly.com/earner/earned/badge/cf025b53-5775-4123-8da3-77bb869c4ace
 <img src="https://github.com/greatcyan/myportfolio/assets/95137493/eec8223b-e811-408f-9af1-bd6d93962c9e" alt="image" width="600"/>
 
 #### Data Associate Pathway - https://sparta.dap.edu.ph/
@@ -24,4 +24,7 @@ https://clipchamp.com/watch/Gb19Vz4UwD5
 <img src="https://github.com/greatcyan/myportfolio/assets/95137493/0caa0af7-d98d-4fa3-92a0-643356bfe6b9" alt="image" width="600"/>
 
 # Portfolio
+#### Cebu Province - Provincial Dashboard
+
+![image](https://github.com/greatcyan/myportfolio/assets/95137493/64032f6a-d4d7-4175-b357-f226023fb74b)
 
