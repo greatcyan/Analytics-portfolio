@@ -44,4 +44,15 @@ By highlighting the interdependencies between marketing expenditures and revenue
 
 ![image](https://github.com/greatcyan/myportfolio/assets/95137493/41c906a5-50e2-4496-b29e-35e1c6a51443)
 
+## Power BI Project Snapshots
+
+![Revenue Analytics_Analytics View](https://github.com/greatcyan/myportfolio/assets/95137493/218fc84c-c10e-409c-8456-4d342ffb40c9)
+
+![Revenue Analytics_Summary View](https://github.com/greatcyan/myportfolio/assets/95137493/14956442-70b8-41b3-87c7-b18e4e9b7a21)
+
+![Development Cost Centers Spend Analytics](https://github.com/greatcyan/myportfolio/assets/95137493/b247e911-fe23-48e0-9343-b834369a8b54)
+
+
+
+
 
