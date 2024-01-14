@@ -4,3 +4,14 @@ I began my career as a Board Repair Specialist at Teradyne Philippines, where I 
 Motivated by this newfound passion, I embarked on a journey of self-education in Excel, spearheading process improvement initiatives and crafting dashboards enriched with macros, advanced Excel formulas, and data visualization techniques. Concurrently, I pursued online courses in Python and Data Analytics, while also undertaking freelance projects as a Python developer.
 
 Embracing this pivot towards the data realm, I became a Finance Business Analyst at Lexmark Research and Development Corporation and am now fully immersed in the field of Data Analytics, equipped with a robust skill set and an unwavering commitment to continuous learning and development. Here I stand today, ready to contribute and grow in this dynamic and ever-evolving industry.
+
+### Trainings & Certifications
+##### Google Data Analytics Professional Certificate - https://www.credly.com/badges/cf025b53-5775-4123-8da3-77bb869c4ace/linked_in_profile
+![image](https://github.com/greatcyan/myportfolio/assets/95137493/eec8223b-e811-408f-9af1-bd6d93962c9e)
+
+#### Data Associate Pathway - https://sparta.dap.edu.ph/
+![image](https://github.com/greatcyan/myportfolio/assets/95137493/e409bf0e-8460-4d95-a754-007957692c37)
+
+#### Data Governance Microspecialization - https://sparta.dap.edu.ph/
+![image](https://github.com/greatcyan/myportfolio/assets/95137493/473af76a-be8d-4430-904e-722c5e4ead1a)
+
