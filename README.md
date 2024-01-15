@@ -1,9 +1,9 @@
 ## About Me
 Hi, I’m Cyrus Baruc. In June 2012, two months after graduating from college, I began my career in the tech industry as a Board Repair Specialist at Teradyne Philippines. There, I honed my skills for three years before transitioning to Linksphere Technologies, continuing in the same capacity. Throughout these two positions, I refined my abilities in troubleshooting, problem-solving, and data analysis. My exposure to diagnosing boards using automated test equipment, along with analyzing test logs to identify failures, sparked my interest in Data Analytics. I started trading local stocks on the Philippine Stock Exchange in 2017 and discovered the AmiBroker application, which helped streamline my stock selection process. That’s when I began coding.
 
-<img src="https://github.com/greatcyan/Analytics-portfolio/assets/95137493/b8271d13-63fa-435b-94f1-7e6a45901c46" alt="image" width="600"/>
+<img src="https://github.com/greatcyan/Analytics-portfolio/assets/95137493/b8271d13-63fa-435b-94f1-7e6a45901c46" alt="image" width="300"/>
 
-<img src="https://github.com/greatcyan/Analytics-portfolio/assets/95137493/490f0f23-49a7-4ed8-bc92-833b035d966d" alt="image" width="600"/>
+<img src="https://github.com/greatcyan/Analytics-portfolio/assets/95137493/490f0f23-49a7-4ed8-bc92-833b035d966d" alt="image" width="300"/>
 
 Motivated by this newfound passion, I embarked on a journey of self-education in Excel, spearheading process improvement initiatives and crafting dashboards enriched with macros, advanced Excel formulas, and data visualization techniques. Concurrently, I pursued online courses in Python and Data Analytics, while also undertaking freelance projects as a Python developer.
 
@@ -13,19 +13,19 @@ https://clipchamp.com/watch/Gb19Vz4UwD5
 
 ## Trainings & Certifications
 ### Google Data Analytics Professional Certificate - https://www.credly.com/earner/earned/badge/cf025b53-5775-4123-8da3-77bb869c4ace
-<img src="https://github.com/greatcyan/myportfolio/assets/95137493/eec8223b-e811-408f-9af1-bd6d93962c9e" alt="image" width="600"/>
+<img src="https://github.com/greatcyan/myportfolio/assets/95137493/eec8223b-e811-408f-9af1-bd6d93962c9e" alt="image" width="500"/>
 
 ### Data Associate Pathway - https://sparta.dap.edu.ph/
-<img src="https://github.com/greatcyan/myportfolio/assets/95137493/e409bf0e-8460-4d95-a754-007957692c37" alt="image" width="600"/>
+<img src="https://github.com/greatcyan/myportfolio/assets/95137493/e409bf0e-8460-4d95-a754-007957692c37" alt="image" width="500"/>
 
 ### Data Visualization Microspecialization Pathway - https://sparta.dap.edu.ph/
-<img src="https://github.com/greatcyan/myportfolio/assets/95137493/d038069e-a86e-49bd-afd7-76a4d795d5f5" alt="image" width="600"/>
+<img src="https://github.com/greatcyan/myportfolio/assets/95137493/d038069e-a86e-49bd-afd7-76a4d795d5f5" alt="image" width="500"/>
 
 ### Data Governance Microspecialization Pathway - https://sparta.dap.edu.ph/
-<img src="https://github.com/greatcyan/myportfolio/assets/95137493/473af76a-be8d-4430-904e-722c5e4ead1a" alt="image" width="600"/>
+<img src="https://github.com/greatcyan/myportfolio/assets/95137493/473af76a-be8d-4430-904e-722c5e4ead1a" alt="image" width="500"/>
 
 ### Computing Microspecialization Pathway - https://sparta.dap.edu.ph/
-<img src="https://github.com/greatcyan/myportfolio/assets/95137493/0caa0af7-d98d-4fa3-92a0-643356bfe6b9" alt="image" width="600"/>
+<img src="https://github.com/greatcyan/myportfolio/assets/95137493/0caa0af7-d98d-4fa3-92a0-643356bfe6b9" alt="image" width="500"/>
 
 ## Portfolio
 ### Cebu Province - Provincial Dashboard
@@ -48,15 +48,16 @@ By highlighting the interdependencies between marketing expenditures and revenue
 
 ![image](https://github.com/greatcyan/myportfolio/assets/95137493/41c906a5-50e2-4496-b29e-35e1c6a51443)
 
-### Power BI Project Snapshots
+### Power BI Projects
+Below are screenshots of some Power BI projects I developed while working as a Finance Business Analyst at Lexmark.
 
-![Revenue Analytics_Analytics View](https://github.com/greatcyan/myportfolio/assets/95137493/218fc84c-c10e-409c-8456-4d342ffb40c9)
+<img src="https://github.com/greatcyan/myportfolio/assets/95137493/218fc84c-c10e-409c-8456-4d342ffb40c9" alt="image" width="300"/>
 
-![Revenue Analytics_Summary View](https://github.com/greatcyan/myportfolio/assets/95137493/14956442-70b8-41b3-87c7-b18e4e9b7a21)
+<img src="https://github.com/greatcyan/myportfolio/assets/95137493/14956442-70b8-41b3-87c7-b18e4e9b7a21" alt="image" width="300"/>
 
-![Development Cost Centers Spend Analytics](https://github.com/greatcyan/myportfolio/assets/95137493/b247e911-fe23-48e0-9343-b834369a8b54)
+<img src="https://github.com/greatcyan/myportfolio/assets/95137493/b247e911-fe23-48e0-9343-b834369a8b54" alt="image" width="300"/>
 
-![Extended Warranty Amortization Report](https://github.com/greatcyan/myportfolio/assets/95137493/d427b44b-ed07-4223-a420-bacc12566824)
+<img src="https://github.com/greatcyan/myportfolio/assets/95137493/d427b44b-ed07-4223-a420-bacc12566824" alt="image" width="300"/>
 
 
 
