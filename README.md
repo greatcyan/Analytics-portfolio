@@ -1,5 +1,9 @@
 ## About Me
-Hi. I'm Cyrus Baruc. It was June 2012, two months after graduating from college where I began my career in the tech industry as a Board Repair Specialist at Teradyne Philippines, where I honed my skills for three years before transitioning to Linksphere Technologies, continuing in the same capacity. Throughout these two tenures, I refined my abilities in troubleshooting, problem-solving, and data analysis. My exposure to diagnosing boards using automated test equipment, coupled with analyzing test logs to identify failures, sparked my interest in Data Analytics.
+Hi, I’m Cyrus Baruc. In June 2012, two months after graduating from college, I began my career in the tech industry as a Board Repair Specialist at Teradyne Philippines. There, I honed my skills for three years before transitioning to Linksphere Technologies, continuing in the same capacity. Throughout these two positions, I refined my abilities in troubleshooting, problem-solving, and data analysis. My exposure to diagnosing boards using automated test equipment, along with analyzing test logs to identify failures, sparked my interest in Data Analytics. I started trading local stocks on the Philippine Stock Exchange in 2017 and discovered the AmiBroker application, which helped streamline my stock selection process. That’s when I began coding.
+
+<img src="https://github.com/greatcyan/Analytics-portfolio/assets/95137493/b8271d13-63fa-435b-94f1-7e6a45901c46" alt="image" width="600"/>
+
+<img src="https://github.com/greatcyan/Analytics-portfolio/assets/95137493/490f0f23-49a7-4ed8-bc92-833b035d966d" alt="image" width="600"/>
 
 Motivated by this newfound passion, I embarked on a journey of self-education in Excel, spearheading process improvement initiatives and crafting dashboards enriched with macros, advanced Excel formulas, and data visualization techniques. Concurrently, I pursued online courses in Python and Data Analytics, while also undertaking freelance projects as a Python developer.
 
