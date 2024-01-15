@@ -40,14 +40,14 @@ The marketing dashboard is a powerful analytical tool designed to provide a comp
 ![image](https://github.com/greatcyan/myportfolio/assets/95137493/41c906a5-50e2-4496-b29e-35e1c6a51443)
 
 ## Revenue Analytics
-The Revenue Analytics is to used to enable Revenue Accounting team to investigate revenue buckets with significant difference from the expected revenue rather than focusing on the top customers. The report is organized into several pages: details and analytics page, and a singgle summary page that gives overview of entire analysis. 
+The Revenue Analytics is used to enable Revenue Accounting team to investigate revenue buckets with significant difference from the expected revenue rather than focusing on the top customers. The report is organized into several pages: details and analytics page, and a singgle summary page that gives overview of entire analysis. 
 
 ### Summary Page
 ![Dashboard8](https://github.com/greatcyan/Analytics-portfolio/assets/95137493/fa33d997-5773-48c6-8b75-1d9fc3b19da0)
 ### Details Page
 ![Dashboard7](https://github.com/greatcyan/Analytics-portfolio/assets/95137493/5443675a-5e07-466a-abbf-e332c3faabf8)
 ### Analytics Page
-![Dashboard5](https://github.com/greatcyan/Analytics-portfolio/assets/95137493/060f6677-ceb5-4e68-988f-fee07c9837de)
+![Dashboard5](ht tps://github.com/greatcyan/Analytics-portfolio/assets/95137493/060f6677-ceb5-4e68-988f-fee07c9837de)
 
 ## Development Spend Analytics
 This report is to streamline the manual process of creating monthly report for development-related cost centers, which previously took 1-2 weeks to complete each month. It features quick trend visualization, variance analysis, and automated refresh.
