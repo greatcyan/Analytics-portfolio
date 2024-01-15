@@ -49,7 +49,7 @@ By highlighting the interdependencies between marketing expenditures and revenue
 ![image](https://github.com/greatcyan/myportfolio/assets/95137493/41c906a5-50e2-4496-b29e-35e1c6a51443)
 
 ### Power BI Projects
-Below are screenshots of some Power BI projects I developed while working as a Finance Business Analyst at Lexmark.
+Below are screenshots of some Power BI projects I developed.
 
 <img src="https://github.com/greatcyan/myportfolio/assets/95137493/218fc84c-c10e-409c-8456-4d342ffb40c9" alt="image" width="450"/>
 
@@ -59,9 +59,8 @@ Below are screenshots of some Power BI projects I developed while working as a F
 
 <img src="https://github.com/greatcyan/myportfolio/assets/95137493/d427b44b-ed07-4223-a420-bacc12566824" alt="image" width="450"/>
 
+<img src="https://github.com/greatcyan/Analytics-portfolio/assets/95137493/5fabb156-63bc-4cd1-9266-e91f29a19942" alt="image" width="450"/>
 
-
-
-
+<img src="https://github.com/greatcyan/Analytics-portfolio/assets/95137493/9d3bbc7d-c45c-4dc2-843b-c5c477648810" alt="image" width="450"/>
 
 
