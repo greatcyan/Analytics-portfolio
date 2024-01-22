@@ -47,7 +47,7 @@ The Revenue Analytics is used to enable Revenue Accounting team to investigate r
 ### Details Page
 ![Dashboard7](https://github.com/greatcyan/Analytics-portfolio/assets/95137493/5443675a-5e07-466a-abbf-e332c3faabf8)
 ### Analytics Page
-![Dashboard5](ht tps://github.com/greatcyan/Analytics-portfolio/assets/95137493/060f6677-ceb5-4e68-988f-fee07c9837de)
+![Dashboard5](https://github.com/greatcyan/Analytics-portfolio/assets/95137493/060f6677-ceb5-4e68-988f-fee07c9837de)
 
 ## Development Spend Analytics
 This report is to streamline the manual process of creating monthly report for development-related cost centers, which previously took 1-2 weeks to complete each month. It features quick trend visualization, variance analysis, and automated refresh.
