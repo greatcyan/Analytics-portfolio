@@ -23,6 +23,10 @@ I am now fully immersed in the field of data and business analytics, equipped wi
 ## Extended Warranty Amortization - In the Bag Dashboard
 ![ITB](https://github.com/greatcyan/Analytics-portfolio/assets/95137493/591b53be-a001-4780-842e-9a1414a242b1)
 
+## Development Spend Analytics
+![DevSpendAn](https://github.com/greatcyan/Analytics-portfolio/assets/95137493/a337a2ed-b017-491d-b53a-524d0f65176b)
+
+
 
 
 
