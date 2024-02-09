@@ -11,24 +11,42 @@ I am now fully immersed in the field of data and business analytics, equipped wi
 #### Linkedin: https://www.linkedin.com/in/cyrus-baruc/
 
 # Portfolio
-### Cebu Province - Provincial Dashboard
+
 ![Cebu Provincial Dashboard](https://github.com/greatcyan/Analytics-portfolio/assets/95137493/3a2aa085-7a10-44b0-bbc1-11ff298a0033)
 
-### Marketing Dashboard
+
 ![Marketing Dashboard](https://github.com/greatcyan/Analytics-portfolio/assets/95137493/3dbcd6cf-374d-4903-aeed-1f1d686a993e)
 
-### Occupancy Cost Centers Dashboard
+
 ![Occupancy CC](https://github.com/greatcyan/Analytics-portfolio/assets/95137493/4a09ff21-b86f-4bc0-b2f8-d108f9d07797)
 
-### Extended Warranty Amortization - In the Bag Dashboard
+
 ![ITB](https://github.com/greatcyan/Analytics-portfolio/assets/95137493/591b53be-a001-4780-842e-9a1414a242b1)
 
-### Development Spend Analytics
+
 ![DevSpendAn](https://github.com/greatcyan/Analytics-portfolio/assets/95137493/a337a2ed-b017-491d-b53a-524d0f65176b)
 
-### Worldwide Expense Report Bridging
+
 ![WW dash](https://github.com/greatcyan/Analytics-portfolio/assets/95137493/62712d5a-8184-43e1-949d-980989f57f04)
+
+
 ![WW dash2](https://github.com/greatcyan/Analytics-portfolio/assets/95137493/486825a7-df03-4440-bb01-d1e87001f055)
+
+
+![Rev 1](https://github.com/greatcyan/Analytics-portfolio/assets/95137493/045eb9b3-ebeb-4d1b-9797-200b1160fe35)
+
+
+![Rev 2](https://github.com/greatcyan/Analytics-portfolio/assets/95137493/c7731976-4424-4e9d-878d-ec5cf38a9fb7)
+
+
+![Rev 3](https://github.com/greatcyan/Analytics-portfolio/assets/95137493/7c34b664-ac16-4f42-8211-806cb14dd1de)
+
+
+![Rev 4](https://github.com/greatcyan/Analytics-portfolio/assets/95137493/08c93d53-992b-4dd4-80db-691aa69353fc)
+
+
+![Rev 5](https://github.com/greatcyan/Analytics-portfolio/assets/95137493/142dad7b-f8d0-4a0b-bf5d-c349416e3005)
+
 
 
 
