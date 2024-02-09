@@ -7,10 +7,8 @@ In my current role, I have worked in global business services, supporting financ
 
 I am now fully immersed in the field of data and business analytics, equipped with a robust skill set and an unwavering commitment to continuous learning and development. Here I stand today, ready to contribute and grow in this dynamic and ever-evolving industry.
 
-#### Video Introduction
-https://clipchamp.com/watch/Gb19Vz4UwD5
-#### Linkedin
-https://www.linkedin.com/in/cyrus-baruc/
+#### Video Introduction: https://clipchamp.com/watch/Gb19Vz4UwD5
+#### Linkedin: https://www.linkedin.com/in/cyrus-baruc/
 
 # Portfolio
 ## Cebu Province - Provincial Dashboard
@@ -22,6 +20,8 @@ https://www.linkedin.com/in/cyrus-baruc/
 ## Occupancy Cost Centers Dashboard
 ![Occupancy CC](https://github.com/greatcyan/Analytics-portfolio/assets/95137493/4a09ff21-b86f-4bc0-b2f8-d108f9d07797)
 
+## Extended Warranty Amortization - In the Bag Dashboard
+![ITB](https://github.com/greatcyan/Analytics-portfolio/assets/95137493/591b53be-a001-4780-842e-9a1414a242b1)
 
 
 
