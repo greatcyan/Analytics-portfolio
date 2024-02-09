@@ -26,6 +26,12 @@ I am now fully immersed in the field of data and business analytics, equipped wi
 ## Development Spend Analytics
 ![DevSpendAn](https://github.com/greatcyan/Analytics-portfolio/assets/95137493/a337a2ed-b017-491d-b53a-524d0f65176b)
 
+## Worldwide Expense Report Bridging
+![WW dash](https://github.com/greatcyan/Analytics-portfolio/assets/95137493/62712d5a-8184-43e1-949d-980989f57f04)
+![WW dash2](https://github.com/greatcyan/Analytics-portfolio/assets/95137493/486825a7-df03-4440-bb01-d1e87001f055)
+
+
+
 
 
 
