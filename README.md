@@ -1,11 +1,13 @@
 # About Me
-Hi, my name is Cyrus Baruc and I am an organized business intelligence analyst specializing in project planning, data preparation, and dashboard design. I transform raw data into actionable insights to drive business strategies.
+Hi, my name is Cyrus Baruc and I am an organized business intelligence analyst specializing in project planning, data preparation, and dashboard design.
 
-I have been in the tech industry for 12 years. I spent almost 11 years in semiconductor test engineering and 1 year in data and business analysis. My extensive experience with my former role equipped me with analytical and problem-solving skills. Also during that time, I gradually developed my data analysis and coding skills. I believe this experience has helped me during my career transition from the electronics field to data and business analytics. 
+I come from a technical background, with a BS degree in Industrial Technology, majoring in Electronics. I spent nearly 11 years of my career in semiconductor test engineering. My role involved maintaining automated test equipment (Eagletest ATE) by troubleshooting and repairing complex electronic circuit boards and assemblies. Essentially, I assisted semiconductor manufacturers in producing high-quality products.
+
+During this time, my interest in data began. I found it fascinating to efficiently identify failures when analyzing diagnostic logs using Excel. Gradually, I developed my coding and data analysis skills through self-study and online courses. My experience from my prior role allowed me to hone my analytical thinking, systematic troubleshooting, and problem-solving skills. Along with my newfound passion for data, it opened the opportunity to successfully transition my career into the field of data analytics and business intelligence.
 
 In my current role, I have been part of a Digital Transformation (DX) team, where I supported finance and accounting business functions on a global scale. My collaboration with these functions involved understanding their requirements, translating them into the Business Intelligence (BI) context, and providing solutions to achieve business goals. This process encompassed requirements gathering, project planning, collaboration with the IT team (when necessary), dashboard development, user training, User Acceptance Testing (UAT), deployment, and maintenance.
 
-I am now fully immersed in the field of data and business analytics, equipped with a robust skill set and an unwavering commitment to continuous learning and development. Here I stand today, ready to contribute and grow in this dynamic and ever-evolving industry.
+I am now fully immersed and navigating the vast landscape of data, equipped with a robust skill set and an unwavering commitment to continuous learning and development. Here I stand today, ready to contribute and grow in this dynamic and ever-evolving industry.
 
 #### Video Introduction: https://clipchamp.com/watch/Gb19Vz4UwD5
 #### Linkedin: https://www.linkedin.com/in/cyrus-baruc/
